@@ -1,1 +1,1 @@
-# Olá, irei te ensinar a usar o Git! Enjoy!
+# Hello, I'll teach you how to use Git! Enjoy!
